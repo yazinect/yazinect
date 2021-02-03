@@ -9,7 +9,7 @@
   <a href="https://twitter.com/yazinect"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-## :zap: Tech stack
+<p align="center"> :zap: Tech stack </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
