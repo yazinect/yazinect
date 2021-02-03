@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there :vulcan_salute:, I'm Yazmin Pedraza :woman_technologist:</p>
+<h1 align="center"> Hi there :vulcan_salute:, I'm Yazmin Pedraza :woman_technologist:</h1>
 
 <p align="center"> I'm a front end developer passionate about software and learning new things.</p>
 
