@@ -2,7 +2,7 @@
 
 I'm a front end developer passionate about software and learning new things.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yazinect)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=yazinect)-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazmin-pedraza/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yazinect)
